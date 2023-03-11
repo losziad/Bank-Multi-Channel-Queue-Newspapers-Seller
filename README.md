@@ -1,4 +1,5 @@
-# Bank-Multi-Channel-Queue-Newspapers-Seller
+# Simulation Project
+# Bank-Multi-Channel-Queue-Newspapers-Seller 
 ## Using the discrete event simulation approach
 ## First problem : Bank_Multi_Channel_Queue
 ### I calculated and got these requirements, Using python:
